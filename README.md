@@ -18,8 +18,6 @@ gcc multi_tool_sudoku_game.c -o multitool
 ./multitool
 ```
 
-Replace `multi_tool_sudoku_game.c` with your actual file name.
-
 ## Features
 - Beginner-friendly interface
 - Step-by-step inputs
