@@ -11,7 +11,7 @@ This is a C project that contains:
 - Hint system
 - Solution checker
 
-## How to Compile (For others who use C)
+## How to Compile
 
 ```bash
 gcc multi_tool_sudoku_game.c -o multitool
@@ -24,4 +24,3 @@ gcc multi_tool_sudoku_game.c -o multitool
 - Error handling and guidance
 
 Made as part of learning C and building real logic tools.
-
